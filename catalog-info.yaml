@@ -6,8 +6,8 @@ metadata:
 spec:
   type: openapi
   lifecycle: production
-  owner: Test-team
-  system: artist-engagement-portal
+  owner: guests
+  system: examples
   definition: |
     openapi: "3.0.0"
     info:
